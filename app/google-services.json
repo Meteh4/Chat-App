@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42842604622",
+    "project_id": "chat-app-b6cfe",
+    "storage_bucket": "chat-app-b6cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42842604622:android:07c39cc6607022ee6b6f1f",
+        "android_client_info": {
+          "package_name": "com.metoly.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZz4R8Xkf17Eabi83POxgjNEJ3_vl36IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
